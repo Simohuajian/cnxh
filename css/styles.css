@@ -1,0 +1,25 @@
+body{
+  background-color:#fff;
+}
+
+.navbar{
+  margin: 0;
+}
+
+.intro3{
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.shipin{
+  width: 300px;
+  height: 200px;
+}
+
+.ct{
+  margin-top: 0px;
+}
+
+.container .ct{
+  margin-top: 0;
+}
